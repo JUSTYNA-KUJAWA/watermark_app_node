@@ -1,0 +1,7 @@
+{
+  "name": "watermark_app_node",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
